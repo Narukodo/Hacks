@@ -6,7 +6,7 @@ public class Test : MonoBehaviour {
 
 	// Use this for initialization
 
-  // modified the file again
+        // modified the file again
 	// Second edit
 	void Start () {
 		
